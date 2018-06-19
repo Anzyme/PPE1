@@ -1,2 +1,2 @@
-# PPE1
-PPE de 1ère année de BTS SIO
+# PPE
+PPE BTS SIO
